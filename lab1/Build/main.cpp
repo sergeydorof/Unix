@@ -1,0 +1,8 @@
+#include <iostream>
+
+// Output: my_program
+
+int main() {
+	std::cout << "Hello from WSL" << std::endl;
+	return 0;
+}
