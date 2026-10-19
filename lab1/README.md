@@ -1,2 +1,2 @@
-./build.sh main.cpp - скомпилировать программу
+./build.sh main.cpp - скомпилировать программу  
 ./my_program - запустить
