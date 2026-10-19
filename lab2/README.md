@@ -24,8 +24,8 @@ docker rm $(docker ps -aq --filter name=container-10-)
 
 50 аналогично
 
-стереть образ:
+стереть образ:  
 docker rmi concurrent-manager
 
-стереть том:
+стереть том:  
 docker volume rm shared_vol
